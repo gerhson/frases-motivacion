@@ -5,10 +5,1811 @@
     "fraseOro": "El que no arriesga, no gana.",
     "numerosSuerte": [7, 14]
   },
-  {
+   {
     "fraseDia": "Confía en el proceso.",
     "amorAmistad": "El amor se construye con detalles.",
     "fraseOro": "La perseverancia vence la resistencia.",
     "numerosSuerte": [3, 19]
+  },
+   {
+    "fraseDia": "Hoy es un buen día para empezar.",
+    "amorAmistad": "Rodéate de quienes te quieren de verdad.",
+    "fraseOro": "El éxito es la suma de pequeños esfuerzos diarios.",
+    "numerosSuerte": [5, 17]
+  },
+   {
+    "fraseDia": "Nunca es tarde para brillar.",
+    "amorAmistad": "La amistad es el mejor abrigo del alma.",
+    "fraseOro": "Cree en ti incluso cuando nadie lo haga.",
+    "numerosSuerte": [12, 34]
+  },
+   {
+    "fraseDia": "No busques excusas, busca resultados.",
+    "amorAmistad": "La amistad verdadera resiste el tiempo y la distancia.",
+    "fraseOro": "La disciplina tarde o temprano vencerá al talento.",
+    "numerosSuerte": [1, 4]
+  },
+  {
+    "fraseDia": "Hoy es un buen día para brillar.",
+    "amorAmistad": "Una amistad verdadera no se basa en el tiempo, sino en la conexión.",
+    "fraseOro": "No dejes para mañana lo que puedes sentir hoy.",
+    "numerosSuerte": [12, 45]
+  },
+   {
+    "fraseDia": "Hoy es el mejor día para comenzar algo nuevo.",
+    "amorAmistad": "Un amigo es un regalo que eliges cada día.",
+    "fraseOro": "El tiempo es oro, úsalo con sabiduría.",
+    "numerosSuerte": [5, 34]
+  },
+  {
+    "fraseDia": "Cada día trae una nueva oportunidad.",
+    "amorAmistad": "La amistad verdadera resiste el tiempo y la distancia.",
+    "fraseOro": "Si puedes soñarlo, puedes lograrlo.",
+    "numerosSuerte": [87, 49]
+  },
+   {
+    "fraseDia": "No busques excusas, busca resultados.",
+    "amorAmistad": "La amistad verdadera resiste el tiempo y la distancia.",
+    "fraseOro": "Si puedes soñarlo, puedes lograrlo.",
+    "numerosSuerte": [88, 28]
+  },
+  {
+    "fraseDia": "Cree en ti, incluso cuando nadie más lo haga.",
+    "amorAmistad": "El amor se cultiva con pequeños gestos diarios.",
+    "fraseOro": "La disciplina tarde o temprano vencerá al talento.",
+    "numerosSuerte": [84, 14]
+  },
+   {
+    "fraseDia": "Hoy es el mejor día para comenzar algo nuevo.",
+    "amorAmistad": "Un amigo es un regalo que eliges cada día.",
+    "fraseOro": "La disciplina tarde o temprano vencerá al talento.",
+    "numerosSuerte": [50, 74]
+  },
+  {
+    "fraseDia": "Hoy es un buen día para brillar.",
+    "amorAmistad": "La amistad verdadera resiste el tiempo y la distancia.",
+    "fraseOro": "Hazlo con pasión o no lo hagas.",
+    "numerosSuerte": [76, 8]
+  },
+   {
+    "fraseDia": "Cada día trae una nueva oportunidad.",
+    "amorAmistad": "El amor se cultiva con pequeños gestos diarios.",
+    "fraseOro": "No dejes para mañana lo que puedes sentir hoy.",
+    "numerosSuerte": [47, 88]
+  },
+  {
+    "fraseDia": "Cree en ti, incluso cuando nadie más lo haga.",
+    "amorAmistad": "Amar es elegir a alguien cada día, sin condiciones.",
+    "fraseOro": "El éxito es la suma de pequeños esfuerzos diarios.",
+    "numerosSuerte": [20, 93]
+  },
+   {
+    "fraseDia": "Tu actitud determina tu dirección.",
+    "amorAmistad": "El amor no se busca, se construye.",
+    "fraseOro": "Si puedes soñarlo, puedes lograrlo.",
+    "numerosSuerte": [24, 30]
+  },
+  {
+    "fraseDia": "Cree en ti y todo será posible.",
+    "amorAmistad": "La amistad es el idioma de los corazones.",
+    "fraseOro": "La disciplina tarde o temprano vencerá al talento.",
+    "numerosSuerte": [39, 81]
+  },
+   {
+    "fraseDia": "Hoy es el día para empezar lo que siempre soñaste.",
+    "amorAmistad": "La amistad verdadera resiste el tiempo y la distancia.",
+    "fraseOro": "Si puedes soñarlo, puedes lograrlo.",
+    "numerosSuerte": [46, 49]
+  },
+  {
+    "fraseDia": "Cada paso te acerca a tu mejor versión.",
+    "amorAmistad": "El amor no se busca, se construye.",
+    "fraseOro": "El éxito es la suma de pequeños esfuerzos diarios.",
+    "numerosSuerte": [56,94 ]
+  },
+   {
+    "fraseDia": "Cada día trae una nueva oportunidad.",
+    "amorAmistad": "La amistad verdadera resiste el tiempo y la distancia.",
+    "fraseOro": "Hazlo con pasión o no lo hagas.",
+    "numerosSuerte": [64,62]
+  },
+  {
+    "fraseDia": "Tu actitud determina tu dirección.",
+    "amorAmistad": "El amor no se busca, se construye.",
+    "fraseOro": "La disciplina tarde o temprano vencerá al talento.",
+    "numerosSuerte": [55, 78]
+  },
+   {
+    "fraseDia": "Cada día trae una nueva oportunidad.",
+    "amorAmistad": "El amor se cultiva con pequeños gestos diarios.",
+    "fraseOro": "El éxito es la suma de pequeños esfuerzos diarios.",
+    "numerosSuerte": [38, 4]
+  },
+  {
+    "fraseDia": "Cada día trae una nueva oportunidad.",
+    "amorAmistad": "El amor se cultiva con pequeños gestos diarios.",
+    "fraseOro": "El éxito es la suma de pequeños esfuerzos diarios.",
+    "numerosSuerte": [38, 4]
+  },
+   {
+    "fraseDia": "No busques excusas, busca resultados.",
+    "amorAmistad": "La amistad verdadera resiste el tiempo y la distancia.",
+    "fraseOro": "Hazlo con pasión o no lo hagas.",
+    "numerosSuerte": [56, 96]
+  },
+  {
+    "fraseDia": "Hoy es el mejor día para comenzar algo nuevo.",
+    "amorAmistad": "Amar es elegir a alguien cada día, sin condiciones.",
+    "fraseOro": "El tiempo es oro, úsalo con sabiduría.",
+    "numerosSuerte": [9, 74]
+  },
+   {
+    "fraseDia": "Cree en ti, incluso cuando nadie más lo haga.",
+    "amorAmistad": "La amistad es el idioma de los corazones.",
+    "fraseOro": "El tiempo es oro, úsalo con sabiduría.",
+    "numerosSuerte": [18, 6]
+  },
+  {
+    "fraseDia": "Cada día trae una nueva oportunidad.",
+    "amorAmistad": "La amistad verdadera resiste el tiempo y la distancia.",
+    "fraseOro": "El tiempo es oro, úsalo con sabiduría.",
+    "numerosSuerte": [86, 16]
+  },
+   {
+    "fraseDia": "No busques excusas, busca resultados.",
+    "amorAmistad": "Amar es elegir a alguien cada día, sin condiciones.",
+    "fraseOro": "El éxito es la suma de pequeños esfuerzos diarios.",
+    "numerosSuerte": [90, 64]
+  },
+  {
+    "fraseDia": "No te detengas, lo mejor está por venir.",
+    "amorAmistad": "La amistad es el idioma de los corazones.",
+    "fraseOro": "Si puedes soñarlo, puedes lograrlo.",
+    "numerosSuerte": [78, 32]
+  },
+   {
+    "fraseDia": "Cree en ti, incluso cuando nadie más lo haga.",
+    "amorAmistad": "Amar es elegir a alguien cada día, sin condiciones.",
+    "fraseOro": "Hazlo con pasión o no lo hagas.",
+    "numerosSuerte": [29, 2]
+  },
+  {
+    "fraseDia": "Cree en ti, incluso cuando nadie más lo haga.",
+    "amorAmistad": "La amistad verdadera resiste el tiempo y la distancia.",
+    "fraseOro": "El tiempo es oro, úsalo con sabiduría.",
+    "numerosSuerte": [46, 15]
+  },
+   {
+    "fraseDia": "El éxito es la suma de pequeños esfuerzos diarios.",
+    "amorAmistad": "El amor no se busca, se construye.",
+    "fraseOro": "No dejes para mañana lo que puedes sentir hoy.",
+    "numerosSuerte": [58, 85]
+  },
+  {
+    "fraseDia": "Hoy es el mejor día para comenzar algo nuevo.",
+    "amorAmistad": "Un amigo es un regalo que eliges cada día.",
+    "fraseOro": "No dejes para mañana lo que puedes sentir hoy.",
+    "numerosSuerte": [59, 17]
+  },
+   {
+    "fraseDia": "La actitud define tu altitud",
+    "amorAmistad": "El amor no cuenta defectos, suma momentos.",
+    "fraseOro": "Sabio no es el que lo sabe todo, sino el que aprende siempre",
+    "numerosSuerte": [9, 31]
+  },
+  {
+    "fraseDia": "La actitud define tu altitud.",
+    "amorAmistad": "Un amigo verdadero es un tesoro sin precio.",
+    "fraseOro": "El silencio a veces enseña más que mil palabras.",
+    "numerosSuerte": [2, 7]
+  },
+   {
+    "fraseDia": "Cada día es una segunda oportunidad.",
+    "amorAmistad": "La amistad verdadera resiste el tiempo y la distancia.",
+    "fraseOro": "Si puedes soñarlo, puedes lograrlo.",
+    "numerosSuerte": [46, 49]
+  },
+  {
+    "fraseDia": "Cada día es una segunda oportunidad.",
+    "amorAmistad": "La amistad es el refugio del alma",
+    "fraseOro": "El conocimiento abre puertas, la sabiduría las cruza.",
+    "numerosSuerte": [11,13 ]
+  },
+   {
+    "fraseDia": "sonríe, la vida es ahora",
+    "amorAmistad": "Amar es elegir todos los días",
+    "fraseOro": "No midas tu vida por tiempo, sino por experiencias.",
+    "numerosSuerte": [40,45]
+  },
+  {
+    "fraseDia": "El optimismo es imán de milagros.",
+    "amorAmistad": "La confianza se gana con acciones, no con palabras.",
+    "fraseOro": "El fracaso no es el final, es una lección disfrazada.",
+    "numerosSuerte": [42, 55]
+  },
+   {
+    "fraseDia": "Gratitud hoy, abundancia mañana.",
+    "amorAmistad": "Un corazón sincero atrae amor verdadero.",
+    "fraseOro": "Invierte en ti, es la mejor rentabilidad.",
+    "numerosSuerte": [17,26 ]
+  },
+   {
+    "fraseDia": "Tus pensamientos crean tu realidad.",
+    "amorAmistad": "La distancia no mata la amistad, solo la prueba.",
+    "fraseOro": "La humildad es la corona de los sabios.",
+    "numerosSuerte": [33,1]
+  },
+   {
+    "fraseDia": "El miedo frena, la fe impulsa.",
+    "amorAmistad": "El amor maduro no grita, susurra.",
+    "fraseOro": "El tiempo no vuelve, pero las oportunidades sí.",
+    "numerosSuerte": [39, 50]
+  },
+   {
+    "fraseDia": "Sé el héroe de tu propia historia.",
+    "amorAmistad": "La lealtad es el lenguaje de la amistad.",
+    "fraseOro": "La paciencia es el arte de esperar con paz.",
+    "numerosSuerte": [4, 90]
+  },
+   {
+    "fraseDia": "Hoy no es un día más, es una nueva oportunidad.",
+    "amorAmistad": "Un amigo de verdad es quien te conoce y aún así te elige.",
+    "fraseOro": "La sabiduría no es saberlo todo, sino aplicar lo que sabes.",
+    "numerosSuerte": [3,20 ]
+  },
+   {
+    "fraseDia": "Despierta con gratitud y dormirás con satisfacción.",
+    "amorAmistad": "El amor no es posesión, es libertad con lealtad.",
+    "fraseOro": "El dinero abre puertas, pero el carácter las mantiene abiertas.",
+    "numerosSuerte": [50,9]
+  },
+   {
+    "fraseDia": "El sol sale para todos, pero solo lo notan quienes abren los ojos.",
+    "amorAmistad": "El amor no se busca, se construye con paciencia.",
+    "fraseOro": "No eres lo que logras, eres lo que superas.",
+    "numerosSuerte": [1, 5]
+  },
+   {
+    "fraseDia": "Pequeños esfuerzos repetidos, crean grandes resultados.",
+    "amorAmistad": "Los amigos no se miden por cantidad, sino por calidad de momentos.",
+    "fraseOro": "El fracaso no es tu enemigo, el conformismo sí.",
+    "numerosSuerte": [7,44 ]
+  },
+   {
+    "fraseDia": "No esperes el momento perfecto, haz que este momento sea perfecto.",
+    "amorAmistad": "Amar es elegir a alguien todos los días, incluso en los difíciles.",
+    "fraseOro": "La humildad no es pensar menos de ti, es pensar menos en ti.",
+    "numerosSuerte": [6,11]
+  },
+   {
+    "fraseDia": "El éxito no es casualidad, es disciplina con constancia.",
+    "amorAmistad": "La mejor relación es donde el silencio se siente como conversación.",
+    "fraseOro": "El tiempo no perdona, pero enseña si estás atento.",
+    "numerosSuerte": [12, 15]
+  },
+   {
+    "fraseDia": "Si el plan no funciona, cambia el plan, no la meta.",
+    "amorAmistad": "El amor verdadero no grita, susurra con acciones",
+    "fraseOro": "La verdadera riqueza está en lo que das, no en lo que tienes.",
+    "numerosSuerte": [13,19 ]
+  },
+   {
+    "fraseDia": "La vida es corta para vivirla en modo automático",
+    "amorAmistad": "Un abrazo a tiempo puede salvar un corazón roto.",
+    "fraseOro": "No critiques lo que no entiendes, pregunta y aprende",
+    "numerosSuerte": [22,5]
+  },
+   {
+    "fraseDia": "No cuentes los días, haz que los días cuenten.",
+    "amorAmistad": "La amistad es el único amor que no se marchita con el tiempo.",
+    "fraseOro": "El conocimiento te da poder, la sabiduría te da paz.",
+    "numerosSuerte": [8, 67]
+  },
+   {
+    "fraseDia": "El miedo te detiene, la acción te libera.",
+    "amorAmistad": "No necesitas media naranja, sé un ser entero y comparte tu vida.",
+    "fraseOro": "La grandeza no está en no caer, sino en levantarse cada vez.",
+    "numerosSuerte": [16,59 ]
+  },
+   {
+    "fraseDia": "Hoy es tu oportunidad para ser mejor que ayer.",
+    "amorAmistad": "el amor no ocupa espacio, llena todo.",
+    "fraseOro": "La sabiduría es hija de la experiencia",
+    "numerosSuerte": [7,42]
+  },
+   {
+    "fraseDia": "Cada sol trae una nueva promesa.",
+    "amorAmistad": "Un amigo es un regalo que te das a ti mismo.",
+    "fraseOro": "El silencio es el grito más poderoso",
+    "numerosSuerte": [15, 88]
+  },
+   {
+    "fraseDia": "Si no riesgas, no ganas.",
+    "amorAmistad": "El amor verdadero no tiene manual",
+    "fraseOro": "El fracaso es el condimento del éxito",
+    "numerosSuerte": [21,3]
+  },
+   {
+    "fraseDia": "La felicidad es una decisión diaria.",
+    "amorAmistad": "Los amigos son el alma en muchos cuerpos.",
+    "fraseOro": "Aprender es como remar contra corriente: si dejas, retrocedes.",
+    "numerosSuerte": [56, 12]
+  },
+   {
+    "fraseDia": "El miedo es solo un chiste que te cuenta tu mente.",
+    "amorAmistad": "Amar es ver el cielo en los ojos de alguien.",
+    "fraseOro": "El tiempo es el mejor maestro, pero mata a todos sus estudiantes.",
+    "numerosSuerte": [33,9 ]
+  },
+   {
+    "fraseDia": "La disciplina es el puente entre metas y logros.",
+    "amorAmistad": "La confianza se construye con ladrillos de honestidad.",
+    "fraseOro": "Nadie es demasiado viejo para aprender ni demasiado joven para enseñar",
+    "numerosSuerte": [27,64]
+  },
+   {
+    "fraseDia": "El optimismo es la fe que conduce al éxito.",
+    "amorAmistad": "La verdadera amistad resiste todo el tiempo",
+    "fraseOro": "El conocimiento es poder, pero la aplicación es sabiduría.",
+    "numerosSuerte": [23, 76]
+  },
+   {
+    "fraseDia": "Hoy es tu lienzo, píntalo con acciones brillantes.",
+    "amorAmistad": "El amor no es encontrar a alguien perfecto, sino perfecto para ti.",
+    "fraseOro": "La sabiduría no ocupa espacio, pero llena el alma.",
+    "numerosSuerte": [17, 89]
+  },
+   {
+    "fraseDia": "El éxito comienza cuando decides intentarlo.",
+    "amorAmistad": "Un amigo es un refugio en el caos.",
+    "fraseOro": "Aprender sin pensar es labor perdida",
+    "numerosSuerte": [64,3]
+  },
+   {
+    "fraseDia": "Cada mañana es un cheque en blanco",
+    "amorAmistad": "El amor verdadero no se apaga, se reinventa.",
+    "fraseOro": "El carácter se forja en las tormentas",
+    "numerosSuerte": [42, 11]
+  },
+   {
+    "fraseDia": "La disciplina es el lenguaje de los campeones.",
+    "amorAmistad": "La amistad es amor con risas compartidas.",
+    "fraseOro": "El conocimiento es un tesoro que nadie puede robar.",
+    "numerosSuerte": [55,26]
+  },
+   {
+    "fraseDia": "Si no sueñas en grande, estás dormido.",
+    "amorAmistad": "Amar es ver eternidad en un momento.",
+    "fraseOro": "La paciencia es el arte de esperar con fe.",
+    "numerosSuerte": [8,93]
+  },
+   {
+    "fraseDia": "El sol siempre vuelve, incluso después de la noche más oscura.",
+    "amorAmistad": "Los amigos son las estrellas que iluminan nuestros días grises.",
+    "fraseOro": "La humildad es la llave maestra del crecimiento.",
+    "numerosSuerte": [19, 77]
+  },
+   {
+    "fraseDia": "No cuentes los días, haz que los días cuenten con pasión.",
+    "amorAmistad": "El amor no es un juego, pero jugarlo bien da felicidad.",
+    "fraseOro": "El silencio es el grito más elocuente de la sabiduría.",
+    "numerosSuerte": [5,82 ]
+  },
+   {
+    "fraseDia": "Cada logro comienza con el coraje de empezar",
+    "amorAmistad": "La amistad es el único jardín que florece en todas las estaciones.",
+    "fraseOro": "Aprender es como remar río arriba: si dejas de avanzar, retrocedes",
+    "numerosSuerte": [63,14]
+  },
+   {
+    "fraseDia": " Cae siete veces, levántate ocho.",
+    "amorAmistad": "Me gustas más que ayer, menos que mañana.",
+    "fraseOro": "Sé el cambio que quieres ver.",
+    "numerosSuerte": [23, 76]
+  },
+   {
+    "fraseDia": "La vida es corta para vivirla sin propósito.",
+    "amorAmistad": "Un verdadero amigo te conoce mejor que tú mismo.",
+    "fraseOro": "La paciencia es el arte de convertir el tiempo en aliado",
+    "numerosSuerte": [28, 91]
+  },
+   {
+    "fraseDia": "El éxito comienza cuando decides intentarlo.",
+    "amorAmistad": "Un amigo es un refugio en el caos.",
+    "fraseOro": "Aprender sin pensar es labor perdida",
+    "numerosSuerte": [64,3]
+  },
+   {
+    "fraseDia": "El miedo es solo un obstáculo mental, salta sobre él.",
+    "amorAmistad": "Amar es encontrar el infinito en lo simple.",
+    "fraseOro": "El conocimiento es poder, pero la sabiduría es libertad.",
+    "numerosSuerte": [45, 12]
+  },
+   {
+    "fraseDia": "La disciplina es el puente entre tus sueños y tu realidad.",
+    "amorAmistad": "La confianza es el pegamento de todas las relaciones.",
+    "fraseOro": "El fracaso no es el final, es una lección con disfraz de derrota.",
+    "numerosSuerte": [37,84]
+  },
+   {
+    "fraseDia": "La gratitud convierte lo que tenemos en suficiente",
+    "amorAmistad": "El amor maduro no grita, construye en silencio.",
+    "fraseOro": "La verdadera riqueza está en lo que das, no en lo que tienes.",
+    "numerosSuerte": [22,59]
+  },
+   {
+    "fraseDia": "Si no te gusta tu historia, escribe un nuevo capítulo hoy.",
+    "amorAmistad": "La distancia prueba el amor, no lo destruye.",
+    "fraseOro": "La mente es como un paracaídas: solo funciona si se abre.",
+    "numerosSuerte": [66, 3]
+  },
+   {
+    "fraseDia": "La actitud positiva es imán de oportunidades.",
+    "amorAmistad": "Un abrazo sincero vale más que mil palabras vacías.",
+    "fraseOro": "La simplicidad es la máxima sofisticación.",
+    "numerosSuerte": [41, 98]
+  },
+   {
+    "fraseDia": "El éxito es la suma de pequeños esfuerzos repetidos.",
+    "amorAmistad": "La lealtad es el lenguaje del amor verdadero.",
+    "fraseOro": "El tiempo perdido nunca vuelve, pero las lecciones sí.",
+    "numerosSuerte": [7, 53]
+  },
+   {
+    "fraseDia": "La persistencia convierte el 'no puedo' en 'lo hice.",
+    "amorAmistad": "Los amigos son la familia que elegimos con el corazón.",
+    "fraseOro": "La reflexión es el espejo del alma sabia",
+    "numerosSuerte": [34,81]
+  },
+   {
+    "fraseDia": "Haz hoy lo que otros no quieren, vive mañana como otros no pueden.",
+    "amorAmistad": "El amor no es posesión, es celebración de la libertad.",
+    "fraseOro": "La duda es el principio de la sabiduría, no su fin.",
+    "numerosSuerte": [25, 72]
+  },
+   {
+    "fraseDia": "La grandeza está en comenzar, la excelencia en persistir.",
+    "amorAmistad": "La amistad verdadera no se oxida con el tiempo.",
+    "fraseOro": "El autocontrol es la fuerza invisible de los sabios.",
+    "numerosSuerte": [16,49]
+  },
+   {
+    "fraseDia": "La vida es eco: lo que das, recibes",
+    "amorAmistad": "Amar es ver el universo en los ojos de alguien.",
+    "fraseOro": "La humildad es la corona invisible de los grandes.",
+    "numerosSuerte": [23,58]
+  },
+   {
+    "fraseDia": "No esperes el momento perfecto, haz perfecto este momento.",
+    "amorAmistad": "La sinceridad es el oxígeno del amor.",
+    "fraseOro": "El aprendizaje es el único tesoro que aumenta al compartirlo.",
+    "numerosSuerte": [9, 67]
+  },
+   {
+    "fraseDia": "El mundo cambia cuando tú cambias tu perspectiva.",
+    "amorAmistad": "La amistad es el arte de entenderse sin palabras.",
+    "fraseOro": "La verdadera libertad nace del autocontrol.",
+    "numerosSuerte": [84, 13]
+  },
+   {
+    "fraseDia": "Tus límites solo existen en tu mente.",
+    "amorAmistad": "El amor es paciencia vestida de cotidianidad.",
+    "fraseOro": "Quien domina su tiempo, domina su vida.",
+    "numerosSuerte": [27, 56]
+  },
+   {
+    "fraseDia": "La energía fluye donde va la atención.",
+    "amorAmistad": "Un buen amigo es como un buen libro: siempre reconforta.",
+    "fraseOro": "La humildad es la sabiduría disfrazada de sencillez.",
+    "numerosSuerte": [38,91]
+  },
+   {
+    "fraseDia": "La creatividad es inteligencia divirtiéndose.",
+    "amorAmistad": "El amor no necesita perfección, solo autenticidad.",
+    "fraseOro": "La resiliencia se construye con pequeños 'volver a intentar.",
+    "numerosSuerte": [44, 19]
+  },
+   {
+    "fraseDia": "La excelencia es un hábito, no un acto.",
+    "amorAmistad": "La complicidad es el idioma secreto de la amistad.",
+    "fraseOro": "El autocuidado no es egoísmo, es sabiduría.",
+    "numerosSuerte": [62, 5]
+  },
+   {
+    "fraseDia": "Cada amanecer es una página en blanco para escribir tu historia.",
+    "amorAmistad": "El amor no es encontrar a alguien perfecto, sino aprender a ver perfectamente lo imperfecto.",
+    "fraseOro": "La sabiduría no es acumular conocimientos, sino aplicarlos con humildad.",
+    "numerosSuerte": [12, 34]
+  },
+   {
+    "fraseDia": "La vida no es esperar a que pase la tormenta, sino aprender a surfear las olas.",
+    "amorAmistad": "El amor maduro prefiere el 'nosotros' al 'yo'.",
+    "fraseOro": "La intuición es la brújula del alma",
+    "numerosSuerte": [17,88]
+  },
+   {
+    "fraseDia": "El éxito no es casualidad, es perseverancia con propósito.",
+    "amorAmistad": "La amistad verdadera es silencio cómodo y risas compartidas.",
+    "fraseOro": "El fracaso es el condimento que da sabor al éxito.",
+    "numerosSuerte": [56, 78]
+  },
+   {
+    "fraseDia": "La disciplina es el lenguaje de quienes respetan sus metas.",
+    "amorAmistad": "Amar es elegir a alguien incluso cuando el mundo te ofrece opciones.",
+    "fraseOro": "La paciencia es el arte de esperar sin desesperar.",
+    "numerosSuerte": [45,9]
+  },
+   {
+    "fraseDia": "Tus pensamientos son los arquitectos de tu destino.",
+    "amorAmistad": "Los amigos son el reflejo del alma que elegimos.",
+    "fraseOro": "La humildad es la corona invisible de los sabios.",
+    "numerosSuerte": [23,67]
+  },
+   {
+    "fraseDia": "La vida es corta para vivirla en modo automático.",
+    "amorAmistad": "El amor maduro no grita; construye en susurros.",
+    "fraseOro": "El conocimiento te da poder; la sabiduría, paz.",
+    "numerosSuerte": [89, 31]
+  },
+   {
+    "fraseDia": "La gratitud transforma lo ordinario en extraordinario.",
+    "amorAmistad": "La confianza se gana con acciones, no con promesas.",
+    "fraseOro": "El tiempo es el mejor maestro, pero mata a sus estudiantes.",
+    "numerosSuerte": [72, 14]
+  },
+   {
+    "fraseDia": "La rutina es el enemigo silencioso de los grandes sueños.",
+    "amorAmistad": "La complicidad es el lenguaje secreto del amor.",
+    "fraseOro": "El carácter se mide en cómo tratas a quienes no pueden hacer nada por ti.",
+    "numerosSuerte": [92, 18]
+  },
+   {
+    "fraseDia": "La acción convierte los sueños en promesas cumplidas.",
+    "amorAmistad": "Un buen amigo es como un buen libro: siempre reconforta.",
+    "fraseOro": "La humildad es la sabiduría disfrazada de sencillez.",
+    "numerosSuerte": [38,91]
+  },
+   {
+    "fraseDia": "La acción convierte los sueños en promesas cumplidas.",
+    "amorAmistad": "El amor verdadero no tiene fecha de caducidad.",
+    "fraseOro": "Aprender es como navegar: si dejas de remar, la corriente te lleva atrás.",
+    "numerosSuerte": [99, 19]
+  },
+   {
+    "fraseDia": "El miedo es una señal de que estás creciendo.",
+    "amorAmistad": "Un abrazo sincero cura heridas que las palabras no alcanzan.",
+    "fraseOro": "La verdadera riqueza está en lo que das, no en lo que acumulas.",
+    "numerosSuerte": [41, 76]
+  },
+   {
+    "fraseDia": "La excelencia no es un acto, es un hábito.",
+    "amorAmistad": "La distancia prueba el amor, no lo destruye.",
+    "fraseOro": "La distancia prueba el amor, no lo destruye.",
+    "numerosSuerte": [87, 33]
+  },
+   {
+    "fraseDia": "La persistencia es el secreto de todos los triunfadores.",
+    "amorAmistad": "Amar es ver eternidad en los pequeños momentos.",
+    "fraseOro": "El conocimiento abre puertas, la actitud las cruza",
+    "numerosSuerte": [25,60]
+  },
+   {
+    "fraseDia": "La vida es corta para vivirla en modo automático.",
+    "amorAmistad": "El amor verdadero es cuando el silencio entre dos personas se siente como conversación.",
+    "fraseOro": "La sabiduría comienza cuando reconocemos cuánto no sabemos.",
+    "numerosSuerte": [34, 12]
+  },
+   {
+    "fraseDia": "Cada mañana es un cheque en blanco de 86,400 segundos de oportunidades.",
+    "amorAmistad": "La amistad es el único jardín que florece en todas las estaciones.",
+    "fraseOro": "El conocimiento te da poder, la sabiduría te da libertad.",
+    "numerosSuerte": [56,78]
+  },
+   {
+    "fraseDia": "La vida no es un problema a resolver, sino una aventura a experimentar.",
+    "amorAmistad": "Amar es encontrar tu hogar en el corazón de otro.",
+    "fraseOro": "La verdadera educación es aprender a pensar, no qué pensar.",
+    "numerosSuerte": [23,45]
+  },
+   {
+    "fraseDia": "Tus decisiones de hoy son tu realidad de mañana.",
+    "amorAmistad": "Los buenos amigos son como estrellas: no siempre los ves, pero sabes que están ahí.",
+    "fraseOro": "La paciencia no es esperar, es mantener la actitud mientras esperas.",
+    "numerosSuerte": [89, 67]
+  },
+   {
+    "fraseDia": "El entusiasmo es el motor de todos los grandes logros.",
+    "amorAmistad": "El amor no es mirarse el uno al otro, sino mirar juntos en la misma dirección.",
+    "fraseOro": "El fracaso es el condimento que da sabor al éxito.",
+    "numerosSuerte": [57, 13]
+  },
+   {
+    "fraseDia": "No midas tu día por la cosecha, sino por las semillas que plantas.",
+    "amorAmistad": "La verdadera amistad resiste todas las distancias y el tiempo.",
+    "fraseOro": "La humildad es la base de toda verdadera grandeza.",
+    "numerosSuerte": [24,68]
+  },
+   {
+    "fraseDia": "La mejor manera de predecir el futuro es crearlo.",
+    "amorAmistad": "Amar es aceptar lo imperfecto perfectamente.",
+    "fraseOro": "Invertir en conocimiento paga los mejores intereses.",
+    "numerosSuerte": [35, 79]
+  },
+   {
+    "fraseDia": "La disciplina es el puente entre tus metas y tus logros.",
+    "amorAmistad": "Un amigo verdadero conoce tu historia y aún así te elige.",
+    "fraseOro": "La reflexión es el espejo del alma sabia.",
+    "numerosSuerte": [46,80]
+  },
+   {
+    "fraseDia": "El optimismo es un imán para las oportunidades.",
+    "amorAmistad": "Un amigo verdadero conoce tu historia y aún así te elige.",
+    "fraseOro": "El autocontrol es la mayor muestra de poder personal.",
+    "numerosSuerte": [14,58]
+  },
+   {
+    "fraseDia": "Haz de cada día tu obra maestra.",
+    "amorAmistad": "La amistad es el amor sin alas ni condiciones.",
+    "fraseOro": "La simplicidad es la máxima sofisticación.",
+    "numerosSuerte": [69, 25]
+  },
+   {
+    "fraseDia": "El éxito es la suma de pequeños esfuerzos repetidos cada día.",
+    "amorAmistad": "El amor verdadero no se busca, se construye día a día.",
+    "fraseOro": "La sabiduría llega cuando ya no necesitas impresionar a nadie.",
+    "numerosSuerte": [11, 23]
+  },
+   {
+    "fraseDia": "Tu actitud determina tu altitud en la vida.",
+    "amorAmistad": "La amistad es el amor sin necesidad de palabra.",
+    "fraseOro": "El conocimiento te da poder, la humildad te da grandeza.",
+    "numerosSuerte": [45,67]
+  },
+   {
+    "fraseDia": "Hoy es el día perfecto para empezar lo que siempre soñaste.",
+    "amorAmistad": "Amar es elegir a alguien incluso en sus días imperfectos.",
+    "fraseOro": "La paciencia es el arte de esperar con inteligencia.",
+    "numerosSuerte": [89,12]
+  },
+   {
+    "fraseDia": "La disciplina es el puente entre metas y logros.",
+    "amorAmistad": "Los buenos amigos son como estrellas: siempre brillan en tu oscuridad.",
+    "fraseOro": "El verdadero aprendizaje ocurre fuera de tu zona de confort.",
+    "numerosSuerte": [34, 56]
+  },
+   {
+    "fraseDia": "Cada logro comienza con la decisión de intentarlo.",
+    "amorAmistad": "El amor maduro prefiere escuchar que tener la razón.",
+    "fraseOro": "La reflexión es el espejo donde el alma se encuentra.",
+    "numerosSuerte": [78, 90]
+  },
+   {
+    "fraseDia": "No esperes el momento perfecto, haz perfecto este momento.",
+    "amorAmistad": "La verdadera amistad resiste todas las distancias y silencios.",
+    "fraseOro": "La simplicidad es la máxima expresión de la elegancia.",
+    "numerosSuerte": [13,35]
+  },
+   {
+    "fraseDia": "La constancia transforma lo ordinario en extraordinario.",
+    "amorAmistad": "Un abrazo sincero cura lo que las palabras no alcanzan.",
+    "fraseOro": "El autocontrol es la mejor muestra de fuerza interior.",
+    "numerosSuerte": [57, 79]
+  },
+   {
+    "fraseDia": "Tus pensamientos crean la realidad que vives.",
+    "amorAmistad": "Amar es encontrar paz en el caos de alguien más.",
+    "fraseOro": "La intuición es la brújula del corazón.",
+    "numerosSuerte": [46,24]
+  },
+   {
+    "fraseDia": "El miedo es solo una ilusión que desaparece con acción.",
+    "amorAmistad": "La lealtad es el lenguaje silencioso del amor verdadero.",
+    "fraseOro": "La verdadera riqueza se mide por lo que puedes prescindir.",
+    "numerosSuerte": [91,68]
+  },
+   {
+    "fraseDia": "La vida te devuelve lo que tú le das primero.",
+    "amorAmistad": "Los amigos de verdad celebran tus logros como si fueran propios.",
+    "fraseOro": "El silencio enseña lo que las palabras no pueden explicar.",
+    "numerosSuerte": [14, 36]
+  },
+   {
+    "fraseDia": "El primer paso hacia lo extraordinario es creer que es posible.",
+    "amorAmistad": "El amor no es encontrar a alguien para vivir, sino encontrar a alguien sin quien no puedes imaginar la vida.",
+    "fraseOro": "La verdadera inteligencia es saber cambiar de opinión cuando la evidencia lo exige.",
+    "numerosSuerte": [17,83]
+  },
+   {
+    "fraseDia": "La disciplina es elegir entre lo que quieres ahora y lo que más deseas.",
+    "amorAmistad": "Los amigos verdaderos son aquellos que te ven caer y en lugar de juzgarte, se arrodillan a tu lado.",
+    "fraseOro": "El silencio es el grito más elocuente de la sabiduría.",
+    "numerosSuerte": [42, 96]
+  },
+   {
+    "fraseDia": "Tus hábitos diarios son los arquitectos de tu destino.",
+    "amorAmistad": "Amar es encontrar el infinito en los detalles pequeños.",
+    "fraseOro": "La humildad no es pensar menos de ti, es pensar menos en ti.",
+    "numerosSuerte": [5,61]
+  },
+   {
+    "fraseDia": "La resiliencia es el arte de convertir los obstáculos en escalones.",
+    "amorAmistad": "El amor maduro no grita, transforma en susurros.",
+    "fraseOro": "La sabiduría ancestral vive en los corazones que escuchan.",
+    "numerosSuerte": [29,74]
+  },
+   {
+    "fraseDia": "Cada día es una nueva oportunidad para cambiar tu vida.",
+    "amorAmistad": "El verdadero amor también florece en la amistad sincera.",
+    "fraseOro": "La paciencia es la llave maestra de la sabiduría.",
+    "numerosSuerte": [13, 7]
+  },
+   {
+    "fraseDia": "La grandeza no está en no caer, sino en levantarse cada vez con más fuerza.",
+    "amorAmistad": "La amistad verdadera es cuando el silencio entre dos personas es la conversación más cómoda.",
+    "fraseOro": "El conocimiento es un tesoro, pero la práctica es la llave.",
+    "numerosSuerte": [13, 88]
+  },
+   {
+    "fraseDia": "No dejes para mañana lo que puedas hacer hoy con pasión.",
+    "amorAmistad": "Un amigo fiel es un tesoro que no tiene precio.",
+    "fraseOro": "La humildad abre puertas donde la arrogancia las cierra.",
+    "numerosSuerte": [11, 66]
+  },
+   {
+    "fraseDia": "La constancia vence a la velocidad cuando el talento no es suficiente.",
+    "amorAmistad": "Compartir momentos simples fortalece los lazos más profundos.",
+    "fraseOro": "El coraje no es la ausencia de miedo, sino el triunfo sobre él.",
+    "numerosSuerte": [12,48]
+  },
+   {
+    "fraseDia": "El éxito es la suma de pequeños esfuerzos repetidos día a día.",
+    "amorAmistad": "Los amigos de verdad aceptan tus defectos con cariño.",
+    "fraseOro": "La gratitud convierte lo que tenemos en suficiente.",
+    "numerosSuerte": [9,99]
+  },
+   {
+    "fraseDia": "No cuentes los días, haz que los días cuenten.",
+    "amorAmistad": "Amar sin condiciones es la esencia de la verdadera amistad.",
+    "fraseOro": "El tiempo revela lo que el corazón oculto.",
+    "numerosSuerte":[10,89] 
+  },
+   {
+    "fraseDia": "Aprende a sonreír en medio de la tormenta.",
+    "amorAmistad": "Las amistades sinceras son refugios en tiempos difíciles.",
+    "fraseOro": "La esperanza es el faro que guía en la noche oscura.",
+    "numerosSuerte": [3,23]
+  },
+   {
+    "fraseDia": "La vida es un eco, recibe lo que proyectas.",
+    "amorAmistad": "Amigos verdaderos son como estrellas, aunque no los veas, sabes que están.",
+    "fraseOro": "Cada error es una lección disfrazada de experiencia.",
+    "numerosSuerte": [10,87]
+  },
+   {
+    "fraseDia": "No temas a los cambios, son la oportunidad para crecer.",
+    "amorAmistad": "En la amistad, la distancia no importa si el corazón está cerca.",
+    "fraseOro": "La honestidad es el lenguaje de la confianza.",
+    "numerosSuerte": [20, 30]
+  },
+   {
+    "fraseDia": "Tus pensamientos crean tu realidad, aliméntalos con positivismo.",
+    "amorAmistad": "Un buen amigo conoce la canción que hay en tu corazón.",
+    "fraseOro": "La empatía es la llave para entender y ser entendido.",
+    "numerosSuerte": [1, 8]
+  },
+   {
+    "fraseDia": "La felicidad no es un destino, es un camino que eliges cada día.",
+    "amorAmistad": "Las amistades duraderas se cultivan con respeto y cariño.",
+    "fraseOro": "El verdadero valor está en ser tú mismo sin máscaras.",
+    "numerosSuerte": [6,14]
+  },
+   {
+    "fraseDia": "El amor propio es el inicio de una vida plena.",
+    "amorAmistad": "Un amigo verdadero está en las buenas y en las malas.",
+    "fraseOro": "La sabiduría nace de la experiencia y del aprendizaje constante.",
+    "numerosSuerte":  [7,90]
+  },
+   {
+    "fraseDia": "La vida no se mide por las respiraciones, sino por los momentos que te dejan sin aliento.",
+    "amorAmistad": "La amistad sincera es un refugio en la tormenta.",
+    "fraseOro": "El respeto es la base de toda relación duradera.",
+    "numerosSuerte": [16,3]
+  },
+   { 
+    "fraseDia": "Sé el cambio que quieres ver en el mundo.",
+    "amorAmistad": "Amar es encontrar en la felicidad del otro tu propia felicidad.",
+    "fraseOro": "La gratitud transforma lo que tenemos en suficiente.",
+    "numerosSuerte": [11,22]
   }
-]
+   { 
+    "fraseDia": "No hay éxito sin sacrificio y dedicación.",
+    "amorAmistad": "Un amigo es quien sabe toda tu historia y sigue a tu lado.",
+    "fraseOro": "La paciencia todo lo alcanza.",
+    "numerosSuerte": [18,77]
+  },
+   {
+    "fraseDia": "Cada día trae nuevas oportunidades para crecer.",
+    "amorAmistad": "La confianza es el hilo invisible que une a los amigos.",
+    "fraseOro": "El silencio a veces habla más que mil palabras.",
+    "numerosSuerte": [9,11]
+  },
+   {
+    "fraseDia": "El valor no es la ausencia de miedo, sino la decisión de seguir adelante.",
+    "amorAmistad": "Las verdaderas amistades resisten la prueba del tiempo.",
+    "fraseOro": "El conocimiento que no se comparte se pierde.",
+    "numerosSuerte":  [10, 79]
+  },
+   {
+    "fraseDia": "Vive con pasión y propósito en cada paso que des.",
+    "amorAmistad": "Un amigo sincero es un tesoro invaluable.",
+    "fraseOro": "El optimismo es el imán de la felicidad.",
+    "numerosSuerte": [33,55]
+  },
+   { 
+    "fraseDia": "La humildad es el camino hacia la grandeza.",
+    "amorAmistad": "En la amistad verdadera no hay espacio para el juicio.",
+    "fraseOro": "La creatividad es la inteligencia divirtiéndose.",
+    "numerosSuerte":  [8,69]
+  },
+   {
+    "fraseDia": "No te rindas, las mejores cosas toman tiempo.",
+    "amorAmistad": "Compartir risas une corazones.",
+    "fraseOro": "El éxito es la suma de pequeños esfuerzos repetidos día a día.",
+    "numerosSuerte":  [1,61]
+  },
+   {
+    "fraseDia": "El aprendizaje constante es el secreto del crecimiento personal.",
+    "amorAmistad": "Los amigos sinceros te aceptan tal cual eres.",
+    "fraseOro": "La fuerza interior es la que te impulsa a seguir adelante.",
+    "numerosSuerte":  [12,45]
+  },
+   {
+    "fraseDia": "La vida es un regalo, aprovéchala al máximo.",
+    "amorAmistad": "La verdadera amistad no entiende de distancia ni tiempo.",
+    "fraseOro": "El acto de perdonar libera el alma y llena de paz.",
+    "numerosSuerte":  [2,56]
+  },
+   {
+    "fraseDia": "El éxito depende de tu determinación y esfuerzo diarios.",
+    "amorAmistad": "Un amigo fiel es un espejo de honestidad y lealtad.",
+    "fraseOro": "La mente abierta atrae oportunidades infinitas.",
+    "numerosSuerte":  [19,75]
+  },
+   {
+    "fraseDia": "Cada paso pequeño te acerca a tu gran meta.",
+    "amorAmistad": "Las risas compartidas fortalecen los lazos de amistad.",
+    "fraseOro": "La disciplina es el puente entre metas y logros.",
+    "numerosSuerte":  [21,3]
+  },
+   {
+    "fraseDia": "El amor es la energía que mueve el universo.",
+    "amorAmistad": "Los verdaderos amigos celebran tu felicidad sin envidia.",
+    "fraseOro": "La humildad es la base para aprender sin ego.",
+    "numerosSuerte":  [18, 5]
+  },
+   {
+    "fraseDia": "No temas equivocarte, los errores enseñan y fortalecen.",
+    "amorAmistad": "Un amigo escucha sin juzgar y entiende sin palabras.",
+    "fraseOro": "El tiempo bien invertido es la mejor inversión.",
+    "numerosSuerte":  [19,31]
+  },
+   {
+    "fraseDia": "La gratitud es la semilla de la abundancia.",
+    "amorAmistad": "La amistad verdadera se cultiva con constancia y cariño.",
+    "fraseOro": "El silencio es el lenguaje del alma.",
+    "numerosSuerte": [23,34] 
+  }, 
+   {
+    "fraseDia": "Nunca es tarde para reinventarte y alcanzar tus sueños.",
+    "amorAmistad": "Un amigo auténtico es un refugio seguro.",
+    "fraseOro": "La esperanza es el motor del espíritu humano.",
+    "numerosSuerte": [13,15]
+  },
+   { 
+    "fraseDia": "La pasión le da sentido y color a la vida.",
+    "amorAmistad": "Compartir con amigos multiplica la alegría.",
+    "fraseOro": "La confianza se gana con acciones, no solo con palabras.",
+    "numerosSuerte":  [33,55]
+  },
+   {
+    "fraseDia": "La creatividad nace cuando permite que tu mente vuele libre.",
+    "amorAmistad": "Los amigos son la familia que elegimos con el corazón.",
+    "fraseOro": "El mayor tesoro está en la simplicidad de las cosas.",
+    "numerosSuerte": [30,49]
+  },
+   {
+    "fraseDia": "La paciencia siembra éxito y cosecha.",
+    "amorAmistad": "Un amigo verdadero es un refugio en la tormenta.",
+    "fraseOro": "El respeto mutuo fortalece cualquier relación.",
+    "numerosSuerte": [99,34]
+  },
+   {
+    "fraseDia": "Cada amanecer es una página en blanco para escribir tu historia.",
+    "amorAmistad": "La amistad sincera no conoce de distancias.",
+    "fraseOro": "El valor reside en intentarlo una y otra vez.",
+    "numerosSuerte": [80, 21]
+  },
+   {
+    "fraseDia": "Aprende a escuchar el silencio y entenderás mucho más.",
+    "amorAmistad": "Los amigos comparten risas y también silencios cómodos.",
+    "fraseOro": "La humildad es la raíz de la verdadera grandeza.",
+    "numerosSuerte": [11,67]
+  },
+   {
+    "fraseDia": "Haz de la gratitud un hábito diario en tu vida.",
+    "amorAmistad": "Un amigo en verdad sonríe desde el alma cuando tú eres feliz.",
+    "fraseOro": "El tiempo es el mejor maestro, pero desgraciadamente mata a todos sus alumnos.",
+    "numerosSuerte": [28,50]
+  },
+   {
+    "fraseDia": "No busques el momento perfecto, haz que cada momento sea perfecto.",
+    "amorAmistad": "La confianza es el cimiento inquebrantable de la amistad.",
+    "fraseOro": "La sabiduría no se aprende, se vive.",
+    "numerosSuerte": [8,2]
+  },
+   {
+    "fraseDia": "Lo que das con amor vuelve a ti multiplicado.",
+    "amorAmistad": "En la verdadera amistad, el tiempo solo fortalece el lazo.",
+    "fraseOro": "Cree en ti y todo será posible.",
+    "numerosSuerte": [66,91]
+  },
+   {
+    "fraseDia": "No esperes que las oportunidades lleguen, crea las tuyas.",
+    "amorAmistad": "Los amigos son el espejo que refleja nuestras mejores cualidades.",
+    "fraseOro": "La constancia es la clave del éxito duradero.",
+    "numerosSuerte": [12,44]
+  },
+   {
+    "fraseDia": "El entusiasmo es energía en movimiento.",
+    "amorAmistad": "Un amigo sincero es un regalo invaluable de la vida.",
+    "fraseOro": "No hay poder más fuerte que un corazón decidido.",
+    "numerosSuerte": [22,60]
+  },
+   {
+    "fraseDia": "La felicidad no se encuentra, se construye.",
+    "amorAmistad": "Los amigos verdaderos apoyan sin pedir nada a cambio.",
+    "fraseOro": "Cada dificultad es una oportunidad para crecer.",
+    "numerosSuerte": [17,21]
+  },
+   {
+    "fraseDia": "El respeto comienza cuando te respetas a ti mismo.",
+    "amorAmistad": "Una amistad sincera nunca envejece.",
+    "fraseOro": "La verdad siempre encuentra su camino.",
+    "numerosSuerte": [4,12]
+  },
+   {
+    "fraseDia": "Los sueños grandes requieren esfuerzos grandes.",
+    "amorAmistad": "Un amigo es quien mejora tus días con su presencia.",
+    "fraseOro": "La paciencia es el arte de esperar con serenidad.",
+    "numerosSuerte": [9.51]
+  },
+   {
+    "fraseDia": "El silencio interior es fuente de sabiduría.",
+    "amorAmistad": "La lealtad es el verdadero lenguaje de la amistad.",
+    "fraseOro": "Nunca subestimes el poder de una sonrisa.",
+    "numerosSuerte": [29,70]
+  },
+   {
+    "fraseDia": "Aprende siempre algo nuevo, nunca dejes de crecer.",
+    "amorAmistad": "Con los amigos compartimos las alegrías y los retos.",
+    "fraseOro": "El amor propio impulsa todo cambio positivo.",
+    "numerosSuerte": [5,11]
+  },
+   {
+    "fraseDia": "La constancia transforma lo imposible en posible.",
+    "amorAmistad": "Un amigo de verdad te acepta tal como eres.",
+    "fraseOro": "Las acciones hablan más que las palabras.",
+    "numerosSuerte": [44,89]
+  },
+   {
+    "fraseDia": "El optimismo alimenta la fuerza interior.",
+    "amorAmistad": "Las conversaciones sinceras fortalecen los vínculos.",
+    "fraseOro": "El fracaso es solo un peldaño hacia el éxito.",
+    "numerosSuerte": [9,19]
+  },
+   {
+    "fraseDia": "Rodéate de personas que inspiren tu mejor versión.",
+    "amorAmistad": "La amistad es un regalo que se cuida con el alma.",
+    "fraseOro": "La humildad es la mayor fortaleza.",
+    "numerosSuerte":[56,79] 
+  },
+   {
+    "fraseDia": "Cada logro comienza con la decisión de intentarlo.",
+    "amorAmistad": "Un verdadero amigo comprende tu silencio.",
+    "fraseOro": "La gratitud convierte lo ordinario en extraordinario.",
+    "numerosSuerte": [28,94]
+  },
+   {
+    "fraseDia": "La esperanza es el combustible del espíritu.",
+    "amorAmistad":"Compartir tus sueños con un amigo los hace más grandes.",
+    "fraseOro": "El respeto a uno mismo es la base del respeto a los demás.",
+    "numerosSuerte": [60,49]
+  },
+   {
+    "fraseDia": "No temas dar el primer paso, sólo asíás avanzar.",
+    "amorAmistad": "Los lazos de amistad verdadera son irrompibles.",
+    "fraseOro": "La mente positiva atrae resultados positivos.",
+    "numerosSuerte": [69.96]
+  },
+   {
+    "fraseDia": "Aprende a valorar lo simple, ahí está la felicidad.",
+    "amorAmistad": "Amigos que celebran tus éxitos son joyas preciosas.",
+    "fraseOro": "El amor y la paciencia siempre triunfan.",
+    "numerosSuerte": [76,21]
+  },
+   {
+    "fraseDia": "El éxito es la suma de pequeños esfuerzos constantes.",
+    "amorAmistad": "Un amigo sincero es un tesoro en tiempos difíciles.",
+    "fraseOro": "La sabiduría es aprender con humildad y crecer con tolerancia.",
+    "numerosSuerte": [33,95]
+  },
+   {
+    "fraseDia": "Creer en ti mismo es el primer paso para lograr tus metas.",
+    "amorAmistad": "Las amistades auténticas superan cualquier adversidad.",
+    "fraseOro": "La paciencia y la constancia siempre llevan a buen puerto.",
+    "numerosSuerte": [61,78]
+  },
+   {
+    "fraseDia": "El verdadero valor está en ser fiel a tus principios.",
+    "amorAmistad": "Un amigo es quien te levanta cuando ha caído.",
+    "fraseOro": "La alegría compartida se multiplica.",
+    "numerosSuerte": [9,33]
+  },
+   {
+    "fraseDia": "La pasión hace que el trabajo duro valga la pena.",
+    "amorAmistad": "Las palabras amables fortalecen las relaciones.",
+    "fraseOro": "El silencio a veces es la mejor respuesta.",
+    "numerosSuerte":[16,48]
+  },
+   {
+    "fraseDia": "El cambio comienza en el momento que decide intentarlo.",
+    "amorAmistad": "Un buen amigo conoce tus defectos y aún así te quiere.",
+    "fraseOro": "La serenidad es la fortaleza del alma.",
+    "numerosSuerte": [33,56]
+  },
+   {
+    "fraseDia": "No mires atrás, no vas en esa dirección.",
+    "amorAmistad": "La amistad verdadera se demuestra en las dificultades.",
+    "fraseOro": "El respeto a las diferencias enriquece la vida.",
+    "numerosSuerte": [7,40]
+  },
+   {
+    "fraseDia": "Cada día es una nueva oportunidad para aprender y crecer.",
+    "amorAmistad": "Los amigos son el espejo donde vemos nuestra mejor versión.",
+    "fraseOro": "La honestidad construye los puentes más duraderos.",
+    "numerosSuerte": [46,97]
+  },
+   {
+    "fraseDia": "La fortaleza interna es la que te mantiene firme en la tormenta.",
+    "amorAmistad": "El apoyo en silencio es el más valioso de los regalos.",
+    "fraseOro": "La gratitud abre puertas y corazones.",
+    "numerosSuerte": [18,32]
+  },
+   {
+    "fraseDia": "Confía en el proceso y en tu capacidad para vencer obstáculos.",
+    "amorAmistad": "Un amigo verdadero siempre encuentra tiempo para ti.",
+    "fraseOro": "La paciencia es el arte de mantener la calma en la espera.",
+    "numerosSuerte": [99,11]
+  },
+   {
+    "fraseDia": "Las grandes metas requieren pequeños pasos constantes.",
+    "amorAmistad": "La amistad sincera es un refugio para el alma.",
+    "fraseOro": "El silencio a menudo dice más que las palabras.",
+    "numerosSuerte": [9,59]
+  },
+   {
+    "fraseDia": "Acepta lo que no puedes cambiar y trabaja en lo que sí puedes.",
+    "amorAmistad": "Quien te acepta con tus virtudes y defectos es un verdadero amigo.",
+    "fraseOro": "El amor es el motor que impulsa los mejores cambios.",
+    "numerosSuerte": [7,54]
+  },
+   {
+    "fraseDia": "No temas empezar de nuevo, es otra oportunidad para mejorar.",
+    "amorAmistad": "Los amigos sinceros son la familia que eliges.",
+    "fraseOro": "La disciplina es el puente entre los sueños y la realidad.",
+    "numerosSuerte": [6,33]
+  },
+   {
+    "fraseDia": "La alegría es la mejor medicina para el alma.",
+    "amorAmistad": "Los lazos de amistad verdadera resisten cualquier prueba.",
+    "fraseOro": "El conocimiento compartido es poder multiplicado.",
+    "numerosSuerte":[15,22]
+  },
+   {
+    "fraseDia": "No busques la perfección, busca la mejora constante.",
+    "amorAmistad": "Un amigo auténtico es luz en los días oscuros.",
+    "fraseOro": "La empatía es la llave que abre corazones.",
+    "numerosSuerte": [1,77]
+  },
+   {
+    "fraseDia": "El éxito es la suma de esfuerzo, constancia y pasión.",
+    "amorAmistad": "En la amistad, la calidad siempre vence a la cantidad.",
+    "fraseOro": "Sé humilde y siempre estarás aprendiendo.",
+    "numerosSuerte": [67,81]
+  },
+   {
+    "fraseDia": "La confianza en ti mismo es el primer paso para lograrlo todo.",
+    "amorAmistad": "Los amigos verdaderos te aceptan sin condiciones.",
+    "fraseOro": "La gratitud convierte lo poco en mucho.",
+    "numerosSuerte": [26,23]
+  },
+   {
+    "fraseDia": "Una sonrisa puede cambiar el día de alguien más.",
+    "amorAmistad": "Compartir es el acto más sincero de la amistad.",
+    "fraseOro": "La paciencia transforma los problemas en soluciones.",
+    "numerosSuerte": [2,22]
+  },
+   {
+    "fraseDia": "Nunca subestimes el poder de un pensamiento positivo.",
+    "amorAmistad": "El cariño sincero se siente más allá de las palabras.",
+    "fraseOro": "El respeto es el cimiento de todas las buenas relaciones.",
+    "numerosSuerte": [1,67]
+  },
+   {
+    "fraseDia": "Los sueños solo se hacen realidad si luchas por ellos.",
+    "amorAmistad": "Un amigo fiel es un regalo para toda la vida.",
+    "fraseOro": "La gratitud es el camino hacia la felicidad.",
+    "numerosSuerte": [10,14]
+  },
+   {
+    "fraseDia": "La actitud determina en gran parte tu éxito.",
+    "amorAmistad": "La amistad es el refugio que sostiene en las tormentas.",
+    "fraseOro": "Aprende a escuchar y entenderás mucho más.",
+    "numerosSuerte": [16,29]
+  },
+   {
+    "fraseDia": "La felicidad se encuentra en apreciar las pequeñas cosas.",
+    "amorAmistad": "Un amigo verdadero es un regalo que el tiempo no desgasta.",
+    "fraseOro": "La paciencia es la fortaleza de los sabios.",
+    "numerosSuerte":  [4,17]
+  },
+   {
+    "fraseDia": "Cada día es un nuevo comienzo para lograr tus sueños.",
+    "amorAmistad": "Los amigos sinceros siempre están en los momentos difíciles.",
+    "fraseOro": "El respeto conquista corazones y abre puertas.",
+    "numerosSuerte":  [13,23]
+  },
+   {
+    "fraseDia": "El éxito llega cuando la preparación encuentra la oportunidad.",
+    "amorAmistad": "La amistad verdadera es un refugio en la tormenta.",
+    "fraseOro": "La humildad es la base de toda grandeza.",
+    "numerosSuerte": [3,29]
+  },
+   {
+    "fraseDia": "Aprende a escuchar para entender, no solo para responder.",
+    "amorAmistad": "Un amigo es aquel que te conoce y no cambia su cariño.",
+    "fraseOro": "La gratitud transforma vidas y abre caminos.",
+    "numerosSuerte":  [29,68]
+  },
+   {
+    "fraseDia": "Nunca es tarde para ser quien quieres ser.",
+    "amorAmistad": "Las risas compartidas fortalecen la amistad.",
+    "fraseOro": "El coraje es vencer el miedo, no la ausencia de él.",
+    "numerosSuerte": [9,31]
+  },
+   {
+    "fraseDia": "El bienestar comienza con pensamientos positivos.",
+    "amorAmistad": "Amar y ser amado es la fuerza más poderosa.",
+    "fraseOro": "La honestidad es el puente hacia la confianza.",
+    "numerosSuerte": [14,77]
+  },
+   {
+    "fraseDia": "La perseverancia convierte lo imposible en posible.",
+    "amorAmistad": "Los buenos amigos saben cuándo hablar y cuándo callar.",
+    "fraseOro": "Cada error es una lección hacia la sabiduría.",
+    "numerosSuerte": [5,80]
+  },
+   {
+    "fraseDia": "Vive cada momento con pasión y propósito.",
+    "amorAmistad": "Los amigos auténticos son el tesoro más valioso.",
+    "fraseOro": "La empatía abre puertas que la lógica no puede.",
+    "numerosSuerte": [2,9]
+  },
+   {
+    "fraseDia": "Sé el cambio que quieres ver en el mundo.",
+    "amorAmistad": "Un verdadero amigo celebra tus éxitos sin envidia.",
+    "fraseOro": "La paciencia todo lo alcanza.",
+    "numerosSuerte":  [25,40]
+  },
+   {
+    "fraseDia": "La sonrisa es el reflejo del alma feliz.",
+    "amorAmistad": "Un amigo verdadero siempre está a tu lado, en la distancia y en la cercanía.",
+    "fraseOro": "El valor de ser uno mismo supera cualquier adversidad.",
+    "numerosSuerte": [8,12]
+  },
+   {
+    "fraseDia": "Cada reto es una oportunidad para crecer.",
+    "amorAmistad": "La confianza entre amigos es un tesoro invaluable.",
+    "fraseOro": "El respeto es la base de todas las relaciones sanas.",
+    "numerosSuerte": [40,3]
+  },
+   {
+    "fraseDia": "La vida se disfruta más cuando se vive con pasión.",
+    "amorAmistad": "Los buenos amigos aceptan tus defectos con cariño.",
+    "fraseOro": "La paciencia es la llave para abrir puertas cerradas.",
+    "numerosSuerte": [2,29]
+  },
+   {
+    "fraseDia": "No hay nada más valioso que el tiempo bien invertido.",
+    "amorAmistad": "Un amigo sincero es tu refugio en la tormenta.",
+    "fraseOro": "La humildad te permite aprender y evolucionar.",
+    "numerosSuerte": [22,19]
+  },
+   {
+    "fraseDia": "Los pequeños actos de amor hacen grandes diferencias.",
+    "amorAmistad": "La amistad verdadera supera cualquier distancia.",
+    "fraseOro": "La gratitud convierte lo simple en extraordinario.",
+    "numerosSuerte": [5,9]
+  },
+   {
+    "fraseDia": "El cambio comienza cuando decides dar el primer paso.",
+    "amorAmistad": "Un buen amigo escucha con el corazón.",
+    "fraseOro": "La disciplina es el puente hacia el éxito.",
+    "numerosSuerte": [28,12]
+  },
+   {
+    "fraseDia": "La esperanza es la luz que guía en la oscuridad.",
+    "amorAmistad": "Las verdaderas amistades resisten las pruebas del tiempo.",
+    "fraseOro": "El coraje es la fuerza que supera el miedo.",
+    "numerosSuerte": [7,19]
+  },
+   {
+    "fraseDia": "La felicidad se encuentra en lo sencillo y cotidiano.",
+    "amorAmistad": "Compartir momentos con amigos llena el alma.",
+    "fraseOro": "La honestidad es la base de la confianza duradera.",
+    "numerosSuerte": [81,27]
+  },
+   {
+    "fraseDia": "Sé agradecido por cada experiencia que la vida te da.",
+    "amorAmistad": "Un amigo verdadero es un regalo del corazón.",
+    "fraseOro": "La paciencia transforma los desafíos en aprendizajes.",
+    "numerosSuerte": [35,10]
+  },
+   {
+    "fraseDia": "El éxito llega a quienes persisten con fe y esperanza.",
+    "amorAmistad": "La amistad es el refugio en tiempos difíciles.",
+    "fraseOro": "El silencio a veces dice más que mil palabras.",
+    "numerosSuerte": [11,76]
+  },
+   {
+    "fraseDia": "La pasión es el motor que impulsa tus metas.",
+    "amorAmistad": "Los amigos auténticos celebran tus logros sin envidia.",
+    "fraseOro": "La humildad es el camino hacia la sabiduría.",
+    "numerosSuerte": [7,69]
+  },
+   {
+    "fraseDia": "En cada caída hay una oportunidad para levantarse más fuerte.",
+    "amorAmistad": "Un amigo de verdad te apoya sin condiciones.",
+    "fraseOro": "La gratitud es la fuente de la abundancia.",
+    "numerosSuerte": [4,8]
+  },
+   {
+    "fraseDia": "La mente positiva atrae resultados positivos.",
+    "amorAmistad": "La confianza es el pilar de toda relación verdadera.",
+    "fraseOro": "El amor propio es el principio de todo cambio.",
+    "numerosSuerte": [26,99]
+  },
+   {
+    "fraseDia": "Los sueños se alcanzan con esfuerzo y dedicación.",
+    "amorAmistad": "Un amigo sincero entiende sin necesidad de palabras.",
+    "fraseOro": "La paciencia todo lo puede.",
+    "numerosSuerte": [23,19]
+  },
+   {
+    "fraseDia": "Rodéate de quienes inspiran tu mejor versión.",
+    "amorAmistad": "Las amistades verdaderas perduran con el tiempo.",
+    "fraseOro": "La humildad abre puertas que la arrogancia cierra.",
+    "numerosSuerte": [20,53]
+  },
+   {
+    "fraseDia": "Cada día es una nueva página para escribir tu historia.",
+    "amorAmistad": "Un amigo es quien celebra tus triunfos como propios.",
+    "fraseOro": "La gratitud es el lenguaje del alma.",
+    "numerosSuerte": [3,89]
+  },
+   {
+    "fraseDia": "No temas al fracaso, él es parte del éxito.",
+    "amorAmistad": "La amistad sincera resiste cualquier tormenta.",
+    "fraseOro": "El respeto es la base de una vida plena.",
+    "numerosSuerte": [23,21]
+  },
+   {
+    "fraseDia": "El conocimiento se convierte en sabiduría cuando se comparte.",
+    "amorAmistad": "Un amigo verdadero valora tu esencia, no la apariencia.",
+    "fraseOro": "La perseverancia forja el camino hacia tus sueños.",
+    "numerosSuerte": [11,9]
+  },
+   {
+    "fraseDia": "La alegría compartida es doble alegría.",
+    "amorAmistad": "Comparte tu luz y atraerás buena energía.",
+    "fraseOro": "La paciencia es la madre de todas las virtudes.",
+    "numerosSuerte": [27,18]
+  },
+   {
+    "fraseDia": "El esfuerzo constante vence al talento sin disciplina.",
+    "amorAmistad": "Un amigo fiel es un refugio en la adversidad.",
+    "fraseOro": "La humildad es la fuerza que mueve al mundo.",
+    "numerosSuerte": [41,65]
+  },
+   {
+    "fraseDia": "La curiosidad es el motor del aprendizaje constante.",
+    "amorAmistad": "El amor crece cuando se riega de pequeños detalles.",
+    "fraseOro": "La paciencia hará posible lo que hoy ves lejano.",
+    "numerosSuerte": [41,23]
+  },
+   {
+    "fraseDia": "Convertir los tropiezos en aprendizaje te lleva más lejos.",
+    "amorAmistad": "Ser leal es demostrar amor sin condiciones.",
+    "fraseOro": "Confía en el tiempo y dejará todo en su sitio.",
+    "numerosSuerte": [50,76]
+  },
+   {
+    "fraseDia": "El respeto por uno mismo inspira respeto en los demás.",
+    "amorAmistad": "Un abrazo sincero cura más que mil palabras.",
+    "fraseOro": "Quien siembra esfuerzo cosecha grandes logros.",
+    "numerosSuerte":[4,9]
+  },
+   {
+    "fraseDia": "La vida es movimiento, atrévete a improvisar.",
+    "amorAmistad": "Las amistades sinceras desafían cualquier adversidad.",
+    "fraseOro": "Aprende a ver oportunidades donde otros ven obstáculos.",
+    "numerosSuerte":[13,18]
+  },
+   {
+    "fraseDia": "Una actitud positiva abre puertas imprevistas.",
+    "amorAmistad": "Amar es escuchar con el corazón y comprender con el alma.",
+    "fraseOro": "El futuro pertenece a los que creen en sus sueños.",
+    "numerosSuerte": [9,11]
+  },
+   {
+    "fraseDia": "Arriésgate a ser quien quieres ser.",
+    "amorAmistad": "Las palabras honestas fortalecen la confianza entre amigos.",
+    "fraseOro": "El silencio permite escuchar tus propios pensamientos.",
+    "numerosSuerte": [7,33]
+  },
+   {
+    "fraseDia": "Haz de la generosidad tu bandera diaria.",
+    "amorAmistad": "Las sonrisas compartidas entre amigos iluminan el día.",
+    "fraseOro": "La sabiduría es aprender de aquellos que te rodean.",
+    "numerosSuerte": [16,90]
+  },
+   {
+    "fraseDia": "El optimismo se contagia; sé luz para otros.",
+    "amorAmistad": "El cariño verdadero se demuestra en los pequeños gestos.",
+    "fraseOro": "Tu mejor versión comienza en tu interior.",
+    "numerosSuerte":[5,66]
+  },
+   {
+    "fraseDia": "Las metas claras te orientan cuando la motivación falla.",
+    "amorAmistad": "Valora a quien está contigo en las malas.",
+    "fraseOro": "El esfuerzo no siempre es visible, pero siempre cuenta.",
+    "numerosSuerte":[8,17]
+  },
+   {
+    "fraseDia": "El agradecimiento transforma el día más gris.",
+    "amorAmistad": "La lealtad se demuestra en la ausencia y la presencia.",
+    "fraseOro": "Nada puede detener a quien nunca se rinde.",
+    "numerosSuerte":[65,98]
+  },
+   {
+    "fraseDia": "La creatividad florece cuando dejas de temer al error.",
+    "amorAmistad": "La empatía une más que la sangre.",
+    "fraseOro": "El conocimiento crece cuando se comparte.",
+    "numerosSuerte": [26,21]
+  },
+   {
+    "fraseDia": "Cada paso pequeño suma en el gran camino.",
+    "amorAmistad": "Un gesto amable deja huella en el corazón.",
+    "fraseOro": "La honestidad es el primer capítulo del libro de la sabiduría.",
+    "numerosSuerte": [18,44]
+  },
+   {
+    "fraseDia": "Perseverar es la clave de toda transformación.",
+    "amorAmistad": "A veces escuchar es la mayor muestra de amor.",
+    "fraseOro": "Agradece las dificultades, son maestros silenciosos.",
+    "numerosSuerte": [41,3]
+  },
+   {
+    "fraseDia": "Tener fe mueve más montañas que el esfuerzo sin esperanza.",
+    "amorAmistad": "La confianza se construye con hechos, no sólo palabras.",
+    "fraseOro": "Cada persona que conoces es una lección de vida.",
+    "numerosSuerte": [16,39]
+  },
+   {
+    "fraseDia": "El esfuerzo se premia cuando menos lo esperas.",
+    "amorAmistad": "Cuando el cariño es real, la distancia no existe.",
+    "fraseOro": "El aprendizaje nunca termina, ni siquiera con los años.",
+    "numerosSuerte": [12,56]
+  },
+   {
+    "fraseDia": "Haz de los problemas oportunidades para reinventarte.",
+    "amorAmistad": "El tiempo dedicado es la mayor muestra de interés.",
+    "fraseOro": "Los sueños no tienen fecha de caducidad.",
+    "numerosSuerte": [28,21]
+  },
+   {
+    "fraseDia": "No te detengas porque algo salió mal, aprende y ve por más.",
+    "amorAmistad": "Las discusiones sinceras fortalecen las relaciones.",
+    "fraseOro": "El conocimiento elimina el miedo.",
+    "numerosSuerte": [12,1]
+  },
+   {
+    "fraseDia": "La serenidad es saber esperar el momento justo.",
+    "amorAmistad": "Un amigo leal es como la sombra, nunca se aparta.",
+    "fraseOro": "La alegría se encuentra en la sencillez.",
+    "numerosSuerte": [31,69]
+  },
+   {
+    "fraseDia": "Construye certezas sobre tus sueños, no sobre tus dudas.",
+    "amorAmistad": "El respeto mutuo es la base de una relación duradera.",
+    "fraseOro": "El corazón valiente abre caminos desconocidos.",
+    "numerosSuerte": [22,12]
+  },
+   {
+    "fraseDia": "La confianza en ti mismo es fundamental para crecer.",
+    "amorAmistad": "La verdadera amistad sobrevive a todas las tormentas.",
+    "fraseOro": "El tiempo es el escultor de la paciencia.",
+    "numerosSuerte": [13,21]
+  },
+   {
+    "fraseDia": "Mantén la fe aunque la meta parezca lejana.",
+    "amorAmistad": "Un consejo honesto vale más que mil halagos.",
+    "fraseOro": "El silencio aclara lo que las palabras confunden.",
+    "numerosSuerte":[25,79]
+  },
+   {
+    "fraseDia": "La humildad es el cimiento de toda virtud.",
+    "amorAmistad": "Los pequeños detalles hacen grande la amistad.",
+    "fraseOro": "La experiencia enseña lo que la teoría no puede.",
+    "numerosSuerte":[27,20]
+  },
+   {
+    "fraseDia": "Todo lo que das, vuelve multiplicado.",
+    "amorAmistad": "Un amigo genuino es el apoyo en los momentos oscuros.",
+    "fraseOro": "Nada florece sin esfuerzo.",
+    "numerosSuerte": [10,34]
+  },
+   {
+    "fraseDia": "La inspiración está en cada amanecer.",
+    "amorAmistad": "La complicidad hace de la amistad una aventura.",
+    "fraseOro": "La gratitud atrae más razones para agradecer.",
+    "numerosSuerte": [22,78]
+  },
+   {
+    "fraseDia": "La disciplina es la base de los sueños cumplidos.",
+    "amorAmistad": "La ternura es el idioma del corazón sincero.",
+    "fraseOro": "El hábito forma el destino.",
+    "numerosSuerte":[10,5]
+  },
+   {
+    "fraseDia": "Encuentra belleza en lo cotidiano.",
+    "amorAmistad": "La confianza se fortalece con la verdad.",
+    "fraseOro": "Todo lo valioso lleva tiempo.",
+    "numerosSuerte": [14,25]
+  },
+   {
+    "fraseDia": "El reconocimiento sincero es un poderoso incentivo.",
+    "amorAmistad": "Las amistades sinceras trascienden el tiempo.",
+    "fraseOro": "La honestidad libera.",
+    "numerosSuerte": [8,2]
+  },
+   {
+    "fraseDia": "Nada es tan contagioso como una actitud positiva.",
+    "amorAmistad": "La admiración construye vínculos.",
+    "fraseOro": "La esperanza es la luz que nunca se apaga.",
+    "numerosSuerte": [50,19]
+  },
+   {
+    "fraseDia": "La perfección está en aceptar las imperfecciones.",
+    "amorAmistad": "Ser compañero en silencio habla más que mil palabras.",
+    "fraseOro": "La amabilidad es la semilla de la felicidad.",
+    "numerosSuerte": [28,30]
+  },
+   {
+    "fraseDia": "Aprende a soltar lo que no te deja avanzar.",
+    "amorAmistad": "La comprensión sana diferencias.",
+    "fraseOro": "El trabajo hecho con pasión trasciende.",
+    "numerosSuerte":[28,36]
+  },
+   {
+    "fraseDia": "Perdona rápido y sonríe siempre.",
+    "amorAmistad": "Juntos, los problemas son más pequeños.",
+    "fraseOro": "Cotidianidad no es sinónimo de rutina.",
+    "numerosSuerte":[11,79]
+  },
+   {
+    "fraseDia": "La honestidad consigo mismo es esencial.",
+    "amorAmistad": "La reciprocidad fortalece los lazos.",
+    "fraseOro": "El compromiso alimenta las metas.",
+    "numerosSuerte":[7,77]
+  },
+   {
+    "fraseDia": "El tiempo bien invertido deja frutos duraderos.",
+    "amorAmistad": "Un amigo te ayuda a descubrir tus fortalezas.",
+    "fraseOro": "El carácter se muestra en los momentos difíciles.",
+    "numerosSuerte":[25,66]
+  },
+   {
+    "fraseDia": "Una actitud de gratitud cambia la vida.",
+    "amorAmistad": "Agradece y bendice a quienes te rodean.",
+    "fraseOro": "Toda crisis es una nueva oportunidad.",
+    "numerosSuerte": [31,90]
+  },
+   {
+    "fraseDia": "El respeto empieza por nosotros mismos.",
+    "amorAmistad": "Las buenas amistades se celebran cada día.",
+    "fraseOro": "La esperanza es la última joya del ánimo.",
+    "numerosSuerte": [4,10]
+  },
+   {
+    "fraseDia": "La inspiración aparece cuando se trabaja duro.",
+    "amorAmistad": "El apoyo constante es el fundamento de la amistad.",
+    "fraseOro": "La coherencia da paz al corazón.",
+    "numerosSuerte": [40,18]
+  },
+   {
+    "fraseDia": "Nunca subestimes el poder de un día bien vivido.",
+    "amorAmistad": "La empatía transforma relaciones.",
+    "fraseOro": "El valor real está en la integridad.",
+    "numerosSuerte": [17,49]
+  },
+   {
+    "fraseDia": "La actitud es el pincel con el que pintas tu vida.",
+    "amorAmistad": "Hablar de corazón a corazón edifica relaciones sinceras.",
+    "fraseOro": "La humildad atrae grandes aprendizajes.",
+    "numerosSuerte": [5,2]
+  },
+   {
+    "fraseDia": "El presente es el mejor regalo.",
+    "amorAmistad": "Los amigos suman alegrías y restan penas.",
+    "fraseOro": "Haz todo bien, aunque nadie te mire.",
+    "numerosSuerte":[16,12]
+  },
+   {
+    "fraseDia": "El aprendizaje es un acto de valentía.",
+    "amorAmistad": "El respeto permite que la amistad crezca sin límites.",
+    "fraseOro": "El esfuerzo continuo vence la resistencia.",
+    "numerosSuerte": [7,38]
+  },
+   {
+    "fraseDia": "El tiempo otorgado es el regalo más valioso.",
+    "amorAmistad": "La sinceridad es más valiosa que el oro.",
+    "fraseOro": "La plenitud radica en el equilibrio interior.",
+    "numerosSuerte":[14,67]
+  },
+   {
+    "fraseDia": "No hay límites para quien tiene voluntad.",
+    "amorAmistad": "La amistad es la familia que uno elige.",
+    "fraseOro": "La valentía nace en el corazón humilde.",
+    "numerosSuerte": [27,20]
+  },
+   {
+    "fraseDia": "Las grandes cosas empiezan con pequeños pasos.",
+    "amorAmistad": "Las promesas cumplidas construyen confianza.",
+    "fraseOro": "La perseverancia siempre triunfa.",
+    "numerosSuerte":[88,21]
+  },
+   {
+    "fraseDia": "El optimismo renueva la esperanza cada día.",
+    "amorAmistad": "Compartir sueños fortalece vínculos.",
+    "fraseOro": "La verdad no necesita adornos.",
+    "numerosSuerte":[7,11]
+  },
+   {
+    "fraseDia": "El entusiasmo es el combustible del logro.",
+    "amorAmistad": "El apoyo incondicional es el tesoro de la amistad.",
+    "fraseOro": "Las buenas ideas nacen de la mente abierta.",
+    "numerosSuerte":[99,10]
+  },
+   {
+    "fraseDia": "El amor propio es el inicio de todos los logros.",
+    "amorAmistad": "La compañía genuina da tranquilidad.",
+    "fraseOro": "La perseverancia te acerca a tu visión.",
+    "numerosSuerte": [2,88]
+  },
+   {
+    "fraseDia": "Quemar etapas con prisa solo retrasa el éxito.",
+    "amorAmistad": "La complicidad silenciosa refleja la amistad profunda.",
+    "fraseOro": "La autenticidad inspira respeto.",
+    "numerosSuerte":[15,52]
+  },
+   {
+    "fraseDia": "Saber escuchar es tan valioso como saber hablar.",
+    "amorAmistad": "La confianza se siente en los detalles pequeños.",
+    "fraseOro": "Los sueños son profecías personales.",
+    "numerosSuerte": [24,77]
+  },
+   {
+    "fraseDia": "La gratitud desbloquea la abundancia de la vida.",
+    "amorAmistad": "Los mejores recuerdos nacen junto a amigos.",
+    "fraseOro": "Quien no teme equivocarse aprende más.",
+    "numerosSuerte": [16,82]
+  },
+   {
+    "fraseDia": "Amar es acompañar, no dirigir.",
+    "amorAmistad": "La comprensión deshace nudos en la relación.",
+    "fraseOro": "Las preguntas correctas abren caminos nuevos.",
+    "numerosSuerte": [26,67]
+  },
+   {
+    "fraseDia": "El legado más grande es el amor dado.",
+    "amorAmistad": "Ser sincero es el mejor acto de amor.",
+    "fraseOro": "La justicia es la suma de pequeños actos honestos.",
+    "numerosSuerte": [40,15]
+  },
+   {
+    "fraseDia": "El tiempo es un bien irreemplazable.",
+    "amorAmistad": "Los silencios cómodos construyen amistades profundas.",
+    "fraseOro": "Una mente abierta acepta y crece.",
+    "numerosSuerte": [37,60]
+  },
+   {
+    "fraseDia": "La flexibilidad es la clave en tiempos de cambio.",
+    "amorAmistad": "Reír juntos es el mejor recuerdo.",
+    "fraseOro": "Todo lo transformador empieza en el pensamiento.",
+    "numerosSuerte": [49,1]
+  },
+   {
+    "fraseDia": "La bondad ilumina el mundo.",
+    "amorAmistad": "Un amigo alegre contagia alegría.",
+    "fraseOro": "Si puedes soñarlo, puedes lograrlo.",
+    "numerosSuerte": [14,13]
+  },
+   {
+    "fraseDia": "El éxito es disfrutar del viaje, no sólo la llegada.",
+    "amorAmistad": "La honestidad fortalece la vida compartida.",
+    "fraseOro": "El amor es una obra diaria.",
+    "numerosSuerte":[16,33]
+  },
+   {
+    "fraseDia": "La gratitud te reconcilia con el presente.",
+    "amorAmistad": "Compartir es el acto más puro de la amistad.",
+    "fraseOro": "La constancia vence al talento inconstante.",
+    "numerosSuerte":[11,90]
+  },
+   {
+    "fraseDia": "El fracaso es el primer paso del verdadero aprendizaje.",
+    "amorAmistad": "Una amistad sin secretos crea confianza.",
+    "fraseOro": "La resiliencia nace de la dificultad.",
+    "numerosSuerte": [5,7]
+  },
+   {
+    "fraseDia": "La serenidad ante la incertidumbre revela madurez.",
+    "amorAmistad": "Las palabras oportunas sanan el corazón.",
+    "fraseOro": "La humildad y el coraje van de la mano.",
+    "numerosSuerte":[9,12]
+  },
+   {
+    "fraseDia": "La acción convierte los sueños en realidad.",
+    "amorAmistad": "Un amigo es fiel consejero.",
+    "fraseOro": "El perdón libera más a quien lo otorga.",
+    "numerosSuerte": [10,99]
+  },
+   {
+    "fraseDia": "El conocimiento abre puertas insospechadas.",
+    "amorAmistad": "La admiración mutua refuerza el lazo de la amistad.",
+    "fraseOro": "El equilibrio interior da tranquilidad.",
+    "numerosSuerte": [20,17]
+  },
+   {
+    "fraseDia": "La esperanza se respira en días grises.",
+    "amorAmistad": "Los amigos sinceros son joyas poco comunes.",
+    "fraseOro": "La perseverancia diferencia a los que sueñan de los que logran.",
+    "numerosSuerte": [11,98]
+  },
+   {
+    "fraseDia": "El asombro ante lo simple renueva el espíritu.",
+    "amorAmistad": "Las alianzas sinceras multiplican logros.",
+    "fraseOro": "La autenticidad es la mayor libertad.",
+    "numerosSuerte": [16,13]
+  },
+   {
+    "fraseDia": "La mente clara dibuja caminos de éxito.",
+    "amorAmistad": "La generosidad fortalece la amistad verdadera.",
+    "fraseOro": "La constancia supera cualquier talento.",
+    "numerosSuerte": [36,79]
+  },
+   {
+    "fraseDia": "La resiliencia te permite florecer en la adversidad.",
+    "amorAmistad": "La comprensión sincera sana heridas.",
+    "fraseOro": "Aprender es renovar el alma.",
+    "numerosSuerte": [11,89]
+  },
+   {
+    "fraseDia": "El agradecimiento multiplica la felicidad.",
+    "amorAmistad": "Valorarse es el primer paso para amar a otros.",
+    "fraseOro": "Cada día es una nueva oportunidad de comenzar.",
+    "numerosSuerte": [21,3]
+  },
+   {
+    "fraseDia": "La escucha atenta transforma relaciones.",
+    "amorAmistad": "Cuidar una amistad la hace eterna.",
+    "fraseOro": "El sacrificio de hoy es el éxito de mañana.",
+    "numerosSuerte": [23,55]
+  },
+   {
+    "fraseDia": "Sorpréndete con la vida cada día.",
+    "amorAmistad": "La confianza mutua no se compra, se gana.",
+    "fraseOro": "Los detalles sencillos construyen lazos fuertes.",
+    "numerosSuerte": [7,4]
+  },
+   {
+    "fraseDia": "El miedo retrocede cuando la determinación avanza.",
+    "amorAmistad": "La generosidad hace crecer la amistad.",
+    "fraseOro": "Tu actitud crea tu horizonte.",
+    "numerosSuerte": [26,52]
+  },
+   {
+    "fraseDia": "Sonríe aunque no tengas motivos claros.",
+    "amorAmistad": "Integridad y lealtad son pilares del buen amor.",
+    "fraseOro": "Los logros más grandes nacen de los sueños pequeños.",
+    "numerosSuerte": [42,91]
+  },
+   {
+    "fraseDia": "La pasión rompe límites imaginarios.",
+    "amorAmistad": "Los mejores amigos transforman días ordinarios en historias únicas.",
+    "fraseOro": "Confía en la magia de los comienzos.",
+    "numerosSuerte": [36,59]
+  },
+   {
+    "fraseDia": "El propósito da sentido a la rutina.",
+    "amorAmistad": "Aprender juntos fortalece cualquier relación.",
+    "fraseOro": "El respeto empieza por uno mismo.",
+    "numerosSuerte": [9,24]
+  },
+   {
+    "fraseDia": "Tu entusiasmo es luz para quienes te rodean.",
+    "amorAmistad": "Las charlas profundas unen los corazones.",
+    "fraseOro": "Las heridas curan más rápido con amor propio.",
+    "numerosSuerte": [19,23]
+  },
+   {
+    "fraseDia": "Actuar con ética trae paz mental.",
+    "amorAmistad": "Apoyar sin juzgar es el don de la amistad verdadera.",
+    "fraseOro": "La creatividad necesita libertad para florecer.",
+    "numerosSuerte": [24,31]
+  },
+   {
+    "fraseDia": "La mente abierta construye futuros impensados.",
+    "amorAmistad": "El tiempo compartido jamás se olvida.",
+    "fraseOro": "La sencillez es el máximo lujo.",
+    "numerosSuerte": [43,88]
+  },
+   {
+    "fraseDia": "La introspección es el camino a la sabiduría.",
+    "amorAmistad": "El humor compartido alivia el alma.",
+    "fraseOro": "La honestidad atrae almas afines.",
+    "numerosSuerte": [40,11]
+  },
+   {
+    "fraseDia": "La valentía empieza cuando sales de tu zona cómoda.",
+    "amorAmistad": "Las mejores historias se viven entre amigos.",
+    "fraseOro": "El éxito no entiende de miedos.",
+    "numerosSuerte": [17,57]
+  },
+   {
+    "fraseDia": "Sé la inspiración que esperas encontrar en otros.",
+    "amorAmistad": "El perdón sincero libera a ambos.",
+    "fraseOro": "La perseverancia es la mayor aliada del éxito.",
+    "numerosSuerte": [23,15]
+  },
+   {
+    "fraseDia": "Cambia una queja por una acción.",
+    "amorAmistad": "Cuidar de los amigos es cuidar el alma.",
+    "fraseOro": "El entusiasmo es la chispa de la acción.",
+    "numerosSuerte":[61,78]
+  },
+   {
+    "fraseDia": "La educación es la mejor inversión para el futuro.",
+    "amorAmistad": "Ser buen amigo es un arte y una fortuna.",
+    "fraseOro": "Todo lo hecho con el corazón deja marca.",
+    "numerosSuerte":[32,98]
+  },
+   {
+    "fraseDia": "La resiliencia da valor a la perseverancia.",
+    "amorAmistad": "Quien te impulsa a crecer es un verdadero amigo.",
+    "fraseOro": "El valor real está en la coherencia con uno mismo.",
+    "numerosSuerte":[29,69]
+   }
+  ] 
+  
